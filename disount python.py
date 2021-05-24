@@ -4,7 +4,7 @@ if(n>1000 and n<=2000):
    c=(n*10)/100
    print("dicount for u is",c)
    print("net amount is:",n-c)
-elif(n>2000 and n<=5000):
+elif(n>2000 and n<=3000):
     c=(n*20)/100
     print("dicount for u is",c)
     print("net amount is:",n-c)
