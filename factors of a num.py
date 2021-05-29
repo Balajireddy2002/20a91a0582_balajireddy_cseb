@@ -6,3 +6,10 @@ while(i<=number):
         i=i+1
     else:
         i+=1
+"""
+expected output
+enter the number:8
+1
+2
+4
+8"""
