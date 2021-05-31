@@ -7,4 +7,5 @@ print("last digit of %d is %d"%(c,r))
 #expected out put:
 """enter number5
 enter exponent2
+5^2=25
 last digit of 25 is 5"""
